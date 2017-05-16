@@ -2,5 +2,5 @@
 cd /home/daniel/proyectos/example/ejemplo
 
 git add .
-git commit -m "crontab oooo"
+git commit -m "crontab"
 git push -u origin master

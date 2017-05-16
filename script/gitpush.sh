@@ -1,6 +1,6 @@
 #!bin/bash
-cd /home/daniel/proyectos/example/ejemplo
+cd /home/daniel/proyectos/example/
 
 git add .
-git commit -m "crontab oooo"
+git commit -m "crontabssss"
 git push -u origin master
